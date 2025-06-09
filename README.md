@@ -32,6 +32,18 @@
 
 ---
 
+## 📸 Screenshots
+
+![4](screenshots/4.png) 
+![3](screenshots/3.png) 
+![2](screenshots/2.png)    
+![5](screenshots/5.png)  
+![6](screenshots/6.png)  
+![7](screenshots/7.png)
+
+---
+
+
 ## 🚀 Setup & Installation
 
 Follow these steps to run the "Moon" app locally:
@@ -98,18 +110,6 @@ Open the app at:
 - 🎴 Click **Draw a Tarot Card** to receive a random card reading  
 - 🌓 Use the **sun/moon icon** to switch between light and dark themes  
 
----
-
-## 📸 Screenshots
-
-![4](screenshots/4.png) 
-![3](screenshots/3.png) 
-![2](screenshots/2.png)    
-![5](screenshots/5.png)  
-![6](screenshots/6.png)  
-![7](screenshots/7.png)
-
----
 
 ## 🛠️ Technologies Used
 - **Backend**: Python + Flask 🐍  
